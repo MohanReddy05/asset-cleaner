@@ -1,4 +1,6 @@
 asset-cleaner-venv/
+/asset-cleaner-venv
+
 __pycache__/
 *.pyc
 *.pyo
