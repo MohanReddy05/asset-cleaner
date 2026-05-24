@@ -1,9 +1,10 @@
-asset-cleaner-venv/
-/asset-cleaner-venv
-
+# Ignore Python cache files
 __pycache__/
 *.pyc
-*.pyo
 
-# Ignore the .env file that contains environment variables
-.env   
+# Ignore virtual environment
+asset-cleaner-venv/
+env/
+
+# Ignore environment variables
+.env
