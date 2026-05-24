@@ -1,0 +1,7 @@
+asset-cleaner-venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore the .env file that contains environment variables
+.env   
